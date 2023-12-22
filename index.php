@@ -9,6 +9,8 @@
     <body> 
         <h1>hello world</h1>
         <h2>apa</h2>
+        <li>satu</li>
+        <li>dua</li>
     </body>
 </html>
     
